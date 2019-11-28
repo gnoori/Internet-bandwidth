@@ -1,7 +1,7 @@
 # Internet-bandwidth
 Measures the speed of the internet. Code is written in Java. Accepts URL as an input. 
 Instructions on running the program:
-1. Donwload the files, make sure they are in the same directory, otherwise the batch file is not going to work.
+1. Download the files, make sure they are in the same directory, otherwise the batch file is not going to work.
 2. Run the batch file
 3. Open Command Prompt (cmd).
 4. Go to the directory where you downloaded the file.
